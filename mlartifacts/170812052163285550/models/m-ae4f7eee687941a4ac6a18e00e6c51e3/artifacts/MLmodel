@@ -1,0 +1,29 @@
+artifact_path: file:C:/Users/Anuar/Documents/Maestria Inteligencia artificial/MLOPs
+  Prueba/Cookie cutter/proyecto_mlops_equipo_56_fase_2/mlartifacts/170812052163285550/models/m-ae4f7eee687941a4ac6a18e00e6c51e3/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.7
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-ae4f7eee687941a4ac6a18e00e6c51e3
+model_size_bytes: 51316
+model_uuid: m-ae4f7eee687941a4ac6a18e00e6c51e3
+prompts: null
+run_id: 62989b225d7e4e779d979be4cc3cd0a5
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 11]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-02 02:01:13.163530'

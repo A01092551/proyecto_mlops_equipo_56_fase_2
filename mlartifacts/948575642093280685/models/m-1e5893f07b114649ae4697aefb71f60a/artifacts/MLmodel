@@ -1,0 +1,33 @@
+artifact_path: file:C:/Users/Anuar/Documents/Maestria Inteligencia artificial/MLOPs
+  Prueba/Cookie cutter/proyecto_mlops_equipo_56_fase_2/mlartifacts/948575642093280685/models/m-1e5893f07b114649ae4697aefb71f60a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-1e5893f07b114649ae4697aefb71f60a
+model_size_bytes: 149987
+model_uuid: m-1e5893f07b114649ae4697aefb71f60a
+prompts: null
+run_id: 81f899684b734a15a05a8236996d5b42
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 4]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-02 04:00:28.689927'

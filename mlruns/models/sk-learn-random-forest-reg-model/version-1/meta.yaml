@@ -1,0 +1,19 @@
+aliases: []
+creation_timestamp: 1762055657146
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762055657146
+metrics: null
+model_id: m-269d90d150874161885e240a2e175e8b
+name: sk-learn-random-forest-reg-model
+params: null
+run_id: 8e426b93a23c4e8eb113c8518cea2722
+run_link: ''
+source: models:/m-269d90d150874161885e240a2e175e8b
+status: READY
+status_message: null
+storage_location: file:C:/Users/Anuar/Documents/Maestria Inteligencia artificial/MLOPs
+  Prueba/Cookie cutter/proyecto_mlops_equipo_56_fase_2/mlartifacts/948575642093280685/models/m-269d90d150874161885e240a2e175e8b/artifacts
+user_id: null
+version: 1

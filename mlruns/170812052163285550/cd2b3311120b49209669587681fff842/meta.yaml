@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Anuar/Documents/Maestria Inteligencia artificial/MLOPs
+  Prueba/Cookie cutter/proyecto_mlops_equipo_56_fase_2/mlartifacts/170812052163285550/cd2b3311120b49209669587681fff842/artifacts
+end_time: 1762048623653
+entry_point_name: ''
+experiment_id: '170812052163285550'
+lifecycle_stage: active
+run_id: cd2b3311120b49209669587681fff842
+run_name: hyperparameter-sweep
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762048485732
+status: 3
+tags: []
+user_id: Anuar

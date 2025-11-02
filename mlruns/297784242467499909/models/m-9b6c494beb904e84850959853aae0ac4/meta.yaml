@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/297784242467499909/models/m-9b6c494beb904e84850959853aae0ac4/artifacts
+creation_timestamp: 1762043114828
+experiment_id: '297784242467499909'
+last_updated_timestamp: 1762043125116
+model_id: m-9b6c494beb904e84850959853aae0ac4
+model_type: ''
+name: rf_apples
+source_run_id: e9913e0d710941fab45ab10b758356e4
+status: 2
+status_message: null

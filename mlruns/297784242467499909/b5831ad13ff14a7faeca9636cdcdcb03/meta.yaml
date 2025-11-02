@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/297784242467499909/b5831ad13ff14a7faeca9636cdcdcb03/artifacts
+end_time: 1762095800054
+entry_point_name: ''
+experiment_id: '297784242467499909'
+lifecycle_stage: active
+run_id: b5831ad13ff14a7faeca9636cdcdcb03
+run_name: apples_rf_test_3_2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762095793118
+status: 3
+tags: []
+user_id: Anuar

@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/Anuar/Documents/Maestria Inteligencia artificial/MLOPs
+  Prueba/Cookie cutter/proyecto_mlops_equipo_56_fase_2/mlartifacts/170812052163285550/models/m-b0816a5d5ca6434f829d6d85c63aebb1/artifacts
+creation_timestamp: 1762048539562
+experiment_id: '170812052163285550'
+last_updated_timestamp: 1762048546066
+model_id: m-b0816a5d5ca6434f829d6d85c63aebb1
+model_type: ''
+name: model
+source_run_id: cf90479a0b13483a8cd97448f3526a06
+status: 2
+status_message: null
